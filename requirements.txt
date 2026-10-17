@@ -1,0 +1,16 @@
+# Data pipeline
+duckdb>=1.1
+pandas>=2.2
+pyarrow>=17
+requests>=2.32
+tabulate>=0.9
+
+# MCP server + agent backend
+mcp[cli]==2.3.0
+anthropic==1.15.0
+fastapi==0.143.3
+uvicorn>=0.30
+python-dotenv>=1.0
+
+# Dev / tests
+pytest>=8

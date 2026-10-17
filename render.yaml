@@ -1,0 +1,20 @@
+# Render Blueprint: Dashboard -> New -> Blueprint -> select this repo. Render prompts for ANTHROPIC_API_KEY.
+services:
+  - type: web
+    name: wbg-scorecard-explorer
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false            # secret: entered in the Render dashboard, never stored in the repo
+      - key: LLM_MODEL_NAME
+        value: claude-sonnet-5-5
+      - key: LLM_EFFORT
+        value: medium
+      - key: RATE_LIMIT_PER_HOUR
+        value: "30"
+      - key: DAILY_BUDGET_USD
+        value: "10"

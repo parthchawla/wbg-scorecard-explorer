@@ -1,0 +1,2135 @@
+[
+ {
+  "name": "cms/narratives/2024",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_home_narratives",
+  "params": {
+   "fy": "2024"
+  },
+  "status": "cached",
+  "rows": 14
+ },
+ {
+  "name": "cms/narratives/2025",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_home_narratives",
+  "params": {
+   "fy": "2025"
+  },
+  "status": "cached",
+  "rows": 14
+ },
+ {
+  "name": "cms/narratives/2026",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_home_narratives",
+  "params": {
+   "fy": "2026"
+  },
+  "status": "cached",
+  "rows": 14
+ },
+ {
+  "name": "cms/outcomes/2024",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_outcomes_indicators",
+  "params": {
+   "fy": "2024"
+  },
+  "status": "cached",
+  "rows": 1
+ },
+ {
+  "name": "cms/outcomes/2025",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_outcomes_indicators",
+  "params": {
+   "fy": "2025"
+  },
+  "status": "cached",
+  "rows": 1
+ },
+ {
+  "name": "cms/outcomes/2026",
+  "url": "https://scorecardcmsapi.worldbank.org/scorecard/cache/get_outcomes_indicators",
+  "params": {
+   "fy": "2026"
+  },
+  "status": "cached",
+  "rows": 1
+ },
+ {
+  "name": "countries/2024",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCCountryDATA",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 249
+ },
+ {
+  "name": "countries/2025",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCCountryDATA",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 249
+ },
+ {
+  "name": "countries/2026",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCCountryDATA",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 249
+ },
+ {
+  "name": "indicator_data/2024/CSC_CLI_EXT_POOR_FCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_CLI_EXT_POOR_FCS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 142
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1210
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 882
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 208
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 964
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 777
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 2147
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1143
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1376
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1830
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 4225
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 610
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 373
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1137
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 566
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 408
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1944
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1428
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 155
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 330
+ },
+ {
+  "name": "indicator_data/2024/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1827
+ },
+ {
+  "name": "indicator_data/2024/EG_ELC_ACCS_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EG_ELC_ACCS_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 4303
+ },
+ {
+  "name": "indicator_data/2024/EN_ATM_GHGT_GT_CE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_GHGT_GT_CE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 6696
+ },
+ {
+  "name": "indicator_data/2024/EN_ATM_HAZA",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_HAZA",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 3855
+ },
+ {
+  "name": "indicator_data/2024/EN_CLM_VULN",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_CLM_VULN",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 116
+ },
+ {
+  "name": "indicator_data/2024/EN_FSH_SUST_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_FSH_SUST_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 71
+ },
+ {
+  "name": "indicator_data/2024/ER_LND_HEAL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_LND_HEAL",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 217
+ },
+ {
+  "name": "indicator_data/2024/ER_NCA_RNEW",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_NCA_RNEW",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 39
+ },
+ {
+  "name": "indicator_data/2024/ER_PTD_TOTL_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_PTD_TOTL_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1985
+ },
+ {
+  "name": "indicator_data/2024/FI_DEB_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_DEB_RISK",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 344
+ },
+ {
+  "name": "indicator_data/2024/FI_TAX_GD_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_TAX_GD_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 151
+ },
+ {
+  "name": "indicator_data/2024/FX_OWN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FX_OWN_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 884
+ },
+ {
+  "name": "indicator_data/2024/IT_GOV_EGOV_XQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_GOV_EGOV_XQ",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 345
+ },
+ {
+  "name": "indicator_data/2024/IT_NET_USER_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_NET_USER_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 3767
+ },
+ {
+  "name": "indicator_data/2024/NE_GDI_FPRV_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/NE_GDI_FPRV_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 2244
+ },
+ {
+  "name": "indicator_data/2024/PER_ALLSP_COV_POP_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/PER_ALLSP_COV_POP_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1286
+ },
+ {
+  "name": "indicator_data/2024/SE_LPV_PRIM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SE_LPV_PRIM",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 186
+ },
+ {
+  "name": "indicator_data/2024/SH_H2O_STA_HYGN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 13434
+ },
+ {
+  "name": "indicator_data/2024/SH_H2O_STA_HYGN_ZS_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_ZS_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 9356
+ },
+ {
+  "name": "indicator_data/2024/SH_STA_STNT_ME_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_STA_STNT_ME_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 4207
+ },
+ {
+  "name": "indicator_data/2024/SH_UHC_SRVS_CV_XD",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_UHC_SRVS_CV_XD",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1169
+ },
+ {
+  "name": "indicator_data/2024/SI_DST_INEQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_DST_INEQ",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1921
+ },
+ {
+  "name": "indicator_data/2024/SI_POV_DDAY_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_DDAY_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 4174
+ },
+ {
+  "name": "indicator_data/2024/SI_POV_PROS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_PROS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 2078
+ },
+ {
+  "name": "indicator_data/2024/SL_EMP_WORK_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_EMP_WORK_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 8104
+ },
+ {
+  "name": "indicator_data/2024/SL_UEM_NEET_ME_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_UEM_NEET_ME_TO",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 6752
+ },
+ {
+  "name": "indicator_data/2024/SM_POP_FDIP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SM_POP_FDIP",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 2223
+ },
+ {
+  "name": "indicator_data/2024/SN_ITK_MSFI_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 944
+ },
+ {
+  "name": "indicator_data/2024/SN_ITK_MSFI_ZS_CC",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS_CC",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 634
+ },
+ {
+  "name": "indicator_data/2024/SP_ROD_R2KM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SP_ROD_R2KM",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 19
+ },
+ {
+  "name": "indicator_data/2025/CSC_CLI_EXT_POOR_FCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_CLI_EXT_POOR_FCS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 380
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1989
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1413
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 213
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2095
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1113
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2280
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 3559
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2858
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2273
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 6152
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 637
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 298
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1695
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 494
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 601
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 468
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2536
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1808
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 160
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 317
+ },
+ {
+  "name": "indicator_data/2025/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2601
+ },
+ {
+  "name": "indicator_data/2025/EG_ELC_ACCS_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EG_ELC_ACCS_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4136
+ },
+ {
+  "name": "indicator_data/2025/EN_ATM_GHGT_GT_CE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_GHGT_GT_CE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4608
+ },
+ {
+  "name": "indicator_data/2025/EN_ATM_HAZA",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_HAZA",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4324
+ },
+ {
+  "name": "indicator_data/2025/EN_CLM_VULN",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_CLM_VULN",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 493
+ },
+ {
+  "name": "indicator_data/2025/EN_FSH_SUST_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_FSH_SUST_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 111
+ },
+ {
+  "name": "indicator_data/2025/ER_LND_HEAL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_LND_HEAL",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 217
+ },
+ {
+  "name": "indicator_data/2025/ER_NCA_RNEW",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_NCA_RNEW",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 24
+ },
+ {
+  "name": "indicator_data/2025/ER_PTD_TOTL_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_PTD_TOTL_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2416
+ },
+ {
+  "name": "indicator_data/2025/FI_DEB_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_DEB_RISK",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 560
+ },
+ {
+  "name": "indicator_data/2025/FI_TAX_GD_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_TAX_GD_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1144
+ },
+ {
+  "name": "indicator_data/2025/FX_OWN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FX_OWN_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1428
+ },
+ {
+  "name": "indicator_data/2025/IT_GOV_EGOV_XQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_GOV_EGOV_XQ",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 187
+ },
+ {
+  "name": "indicator_data/2025/IT_NET_USER_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_NET_USER_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4143
+ },
+ {
+  "name": "indicator_data/2025/NE_GDI_FPRV_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/NE_GDI_FPRV_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 3060
+ },
+ {
+  "name": "indicator_data/2025/PER_ALLSP_COV_POP_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/PER_ALLSP_COV_POP_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1226
+ },
+ {
+  "name": "indicator_data/2025/SE_LPV_PRIM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SE_LPV_PRIM",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 244
+ },
+ {
+  "name": "indicator_data/2025/SH_H2O_STA_HYGN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 16396
+ },
+ {
+  "name": "indicator_data/2025/SH_H2O_STA_HYGN_ZS_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_ZS_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 11158
+ },
+ {
+  "name": "indicator_data/2025/SH_STA_STNT_ME_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_STA_STNT_ME_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4336
+ },
+ {
+  "name": "indicator_data/2025/SH_UHC_SRVS_CV_XD",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_UHC_SRVS_CV_XD",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4473
+ },
+ {
+  "name": "indicator_data/2025/SI_DST_INEQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_DST_INEQ",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2101
+ },
+ {
+  "name": "indicator_data/2025/SI_POV_DDAY_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_DDAY_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4740
+ },
+ {
+  "name": "indicator_data/2025/SI_POV_PROS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_PROS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2289
+ },
+ {
+  "name": "indicator_data/2025/SL_EMP_WORK_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_EMP_WORK_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 9076
+ },
+ {
+  "name": "indicator_data/2025/SL_UEM_NEET_ME_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_UEM_NEET_ME_TO",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 7326
+ },
+ {
+  "name": "indicator_data/2025/SM_POP_FDIP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SM_POP_FDIP",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 2482
+ },
+ {
+  "name": "indicator_data/2025/SN_ITK_MSFI_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1751
+ },
+ {
+  "name": "indicator_data/2025/SN_ITK_MSFI_ZS_CC",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS_CC",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1255
+ },
+ {
+  "name": "indicator_data/2025/SP_ROD_R2KM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SP_ROD_R2KM",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 19
+ },
+ {
+  "name": "indicator_data/2026/CSC_CLI_EXT_POOR_FCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_CLI_EXT_POOR_FCS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 263
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2160
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1367
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 210
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2053
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1113
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2326
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 3734
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1691
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2191
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 6894
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 764
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 364
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1961
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 604
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 795
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 586
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2743
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1749
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 149
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 365
+ },
+ {
+  "name": "indicator_data/2026/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2516
+ },
+ {
+  "name": "indicator_data/2026/EG_ELC_ACCS_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EG_ELC_ACCS_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4584
+ },
+ {
+  "name": "indicator_data/2026/EN_ATM_GHGT_GT_CE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_GHGT_GT_CE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4584
+ },
+ {
+  "name": "indicator_data/2026/EN_ATM_HAZA",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_ATM_HAZA",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4255
+ },
+ {
+  "name": "indicator_data/2026/EN_CLM_VULN",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_CLM_VULN",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 496
+ },
+ {
+  "name": "indicator_data/2026/EN_FSH_SUST_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/EN_FSH_SUST_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 111
+ },
+ {
+  "name": "indicator_data/2026/ER_LND_HEAL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_LND_HEAL",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 217
+ },
+ {
+  "name": "indicator_data/2026/ER_NCA_RNEW",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_NCA_RNEW",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 24
+ },
+ {
+  "name": "indicator_data/2026/ER_PTD_TOTL_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/ER_PTD_TOTL_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2377
+ },
+ {
+  "name": "indicator_data/2026/FI_DEB_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_DEB_RISK",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 684
+ },
+ {
+  "name": "indicator_data/2026/FI_TAX_GD_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FI_TAX_GD_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1144
+ },
+ {
+  "name": "indicator_data/2026/FX_OWN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/FX_OWN_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 976
+ },
+ {
+  "name": "indicator_data/2026/IT_GOV_EGOV_XQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_GOV_EGOV_XQ",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 184
+ },
+ {
+  "name": "indicator_data/2026/IT_NET_USER_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/IT_NET_USER_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 3576
+ },
+ {
+  "name": "indicator_data/2026/NE_GDI_FPRV_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/NE_GDI_FPRV_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2959
+ },
+ {
+  "name": "indicator_data/2026/PER_ALLSP_COV_POP_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/PER_ALLSP_COV_POP_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1220
+ },
+ {
+  "name": "indicator_data/2026/SE_LPV_PRIM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SE_LPV_PRIM",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 240
+ },
+ {
+  "name": "indicator_data/2026/SH_H2O_STA_HYGN_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 15800
+ },
+ {
+  "name": "indicator_data/2026/SH_H2O_STA_HYGN_ZS_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_H2O_STA_HYGN_ZS_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 11201
+ },
+ {
+  "name": "indicator_data/2026/SH_STA_STNT_ME_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_STA_STNT_ME_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4361
+ },
+ {
+  "name": "indicator_data/2026/SH_UHC_SRVS_CV_XD",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SH_UHC_SRVS_CV_XD",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4488
+ },
+ {
+  "name": "indicator_data/2026/SI_DST_INEQ",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_DST_INEQ",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2109
+ },
+ {
+  "name": "indicator_data/2026/SI_POV_DDAY_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_DDAY_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 4662
+ },
+ {
+  "name": "indicator_data/2026/SI_POV_PROS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SI_POV_PROS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2296
+ },
+ {
+  "name": "indicator_data/2026/SL_EMP_WORK_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_EMP_WORK_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 9130
+ },
+ {
+  "name": "indicator_data/2026/SL_UEM_NEET_ME_TO",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SL_UEM_NEET_ME_TO",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 7370
+ },
+ {
+  "name": "indicator_data/2026/SM_POP_FDIP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SM_POP_FDIP",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 2649
+ },
+ {
+  "name": "indicator_data/2026/SN_ITK_MSFI_ZS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1874
+ },
+ {
+  "name": "indicator_data/2026/SN_ITK_MSFI_ZS_CC",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SN_ITK_MSFI_ZS_CC",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1335
+ },
+ {
+  "name": "indicator_data/2026/SP_ROD_R2KM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/data/SP_ROD_R2KM",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 19
+ },
+ {
+  "name": "metadata/2024",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/metadata",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 52
+ },
+ {
+  "name": "metadata/2025",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/metadata",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 52
+ },
+ {
+  "name": "metadata/2026",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/metadata",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 52
+ },
+ {
+  "name": "projects/2024/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 744
+ },
+ {
+  "name": "projects/2024/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 123
+ },
+ {
+  "name": "projects/2024/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 112
+ },
+ {
+  "name": "projects/2024/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 159
+ },
+ {
+  "name": "projects/2024/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 331
+ },
+ {
+  "name": "projects/2024/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 624
+ },
+ {
+  "name": "projects/2024/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 770
+ },
+ {
+  "name": "projects/2024/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 264
+ },
+ {
+  "name": "projects/2024/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1239
+ },
+ {
+  "name": "projects/2024/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 4156
+ },
+ {
+  "name": "projects/2024/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 669
+ },
+ {
+  "name": "projects/2024/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 179
+ },
+ {
+  "name": "projects/2024/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 308
+ },
+ {
+  "name": "projects/2024/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "projects/2024/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "projects/2024/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 243
+ },
+ {
+  "name": "projects/2024/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 157
+ },
+ {
+  "name": "projects/2024/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 1089
+ },
+ {
+  "name": "projects/2024/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 609
+ },
+ {
+  "name": "projects/2024/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 36
+ },
+ {
+  "name": "projects/2024/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 217
+ },
+ {
+  "name": "projects/2024/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 681
+ },
+ {
+  "name": "projects/2025/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 620
+ },
+ {
+  "name": "projects/2025/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 125
+ },
+ {
+  "name": "projects/2025/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 280
+ },
+ {
+  "name": "projects/2025/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 413
+ },
+ {
+  "name": "projects/2025/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 466
+ },
+ {
+  "name": "projects/2025/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1033
+ },
+ {
+  "name": "projects/2025/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 288
+ },
+ {
+  "name": "projects/2025/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 660
+ },
+ {
+  "name": "projects/2025/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1203
+ },
+ {
+  "name": "projects/2025/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 4530
+ },
+ {
+  "name": "projects/2025/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 727
+ },
+ {
+  "name": "projects/2025/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 202
+ },
+ {
+  "name": "projects/2025/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 466
+ },
+ {
+  "name": "projects/2025/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "projects/2025/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 229
+ },
+ {
+  "name": "projects/2025/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 392
+ },
+ {
+  "name": "projects/2025/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 213
+ },
+ {
+  "name": "projects/2025/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 1445
+ },
+ {
+  "name": "projects/2025/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 743
+ },
+ {
+  "name": "projects/2025/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 34
+ },
+ {
+  "name": "projects/2025/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 235
+ },
+ {
+  "name": "projects/2025/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 819
+ },
+ {
+  "name": "projects/2026/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ACCS_TRANS_INFRA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 692
+ },
+ {
+  "name": "projects/2026/CSC_RES_BRO_INTE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_BRO_INTE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 180
+ },
+ {
+  "name": "projects/2026/CSC_RES_DEBT_SUST_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DEBT_SUST_RISK",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "projects/2026/CSC_RES_DIG_ENA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DIG_ENA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 477
+ },
+ {
+  "name": "projects/2026/CSC_RES_DISP_COMM_SERVICES",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_DISP_COMM_SERVICES",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 462
+ },
+ {
+  "name": "projects/2026/CSC_RES_EDU_SUPP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_EDU_SUPP",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1107
+ },
+ {
+  "name": "projects/2026/CSC_RES_ELC_ACCS",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_ELC_ACCS",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 345
+ },
+ {
+  "name": "projects/2026/CSC_RES_FIN_SERV_WOM",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FIN_SERV_WOM",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 400
+ },
+ {
+  "name": "projects/2026/CSC_RES_FOOD_NUTR_SECU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_FOOD_NUTR_SECU",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1054
+ },
+ {
+  "name": "projects/2026/CSC_RES_GEN_EQU_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GEN_EQU_BENE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 5103
+ },
+ {
+  "name": "projects/2026/CSC_RES_GHG_EMS_YEAR",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_GHG_EMS_YEAR",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 768
+ },
+ {
+  "name": "projects/2026/CSC_RES_HEA_EMER_BENE",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_EMER_BENE",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 185
+ },
+ {
+  "name": "projects/2026/CSC_RES_HEA_SERV",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_HEA_SERV",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 516
+ },
+ {
+  "name": "projects/2026/CSC_RES_NEW_JOBS_WOM_YOU",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_NEW_JOBS_WOM_YOU",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 0
+ },
+ {
+  "name": "projects/2026/CSC_RES_PRIV_CAP_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_ENAB",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 399
+ },
+ {
+  "name": "projects/2026/CSC_RES_PRIV_CAP_MOBL",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_PRIV_CAP_MOBL",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 477
+ },
+ {
+  "name": "projects/2026/CSC_RES_REN_ENER_ENAB",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_REN_ENER_ENAB",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 208
+ },
+ {
+  "name": "projects/2026/CSC_RES_RESI_CLIM_RISK",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_RESI_CLIM_RISK",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 1401
+ },
+ {
+  "name": "projects/2026/CSC_RES_SOC_SAF_PROG",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_SOC_SAF_PROG",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 689
+ },
+ {
+  "name": "projects/2026/CSC_RES_TAX_REV_GDP",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TAX_REV_GDP",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 31
+ },
+ {
+  "name": "projects/2026/CSC_RES_TER_AQU_HECT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_TER_AQU_HECT",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 255
+ },
+ {
+  "name": "projects/2026/CSC_RES_WAT_SAN_HYG_TOT",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/v1/resultsdata/CSC_RES_WAT_SAN_HYG_TOT",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 832
+ },
+ {
+  "name": "sub_metadata/2024",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCSubIndicatorMetaData",
+  "params": {
+   "snapshotfy": "2024"
+  },
+  "status": "cached",
+  "rows": 22
+ },
+ {
+  "name": "sub_metadata/2025",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCSubIndicatorMetaData",
+  "params": {
+   "snapshotfy": "2025"
+  },
+  "status": "cached",
+  "rows": 22
+ },
+ {
+  "name": "sub_metadata/2026",
+  "url": "https://ext.api.worldbank.org/api/Scorecard/getSCSubIndicatorMetaData",
+  "params": {
+   "snapshotfy": "2026"
+  },
+  "status": "cached",
+  "rows": 20
+ }
+]

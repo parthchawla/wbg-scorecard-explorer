@@ -1,0 +1,11 @@
+.venv/
+.env
+**/__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/src/
+data/scorecard.duckdb
+data/clean/
+docs/screenshots/
+*.building
+.DS_Store

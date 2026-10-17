@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+/* Design tokens. Chart colours follow the validated dataviz reference palette; dark values are
+   selected steps (not inverted). The media query follows the OS; [data-theme] is the user's toggle. */
+:root {
+  color-scheme: light;
+  --page: #f6f6f3;
+  --surface: #fcfcfb;
+  --surface-2: #f0efec;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #7a7873;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.1);
+  --accent: #2a78d6;
+  --accent-ink: #1c5cab;
+  --accent-soft: #cde2fb;
+  --series-1: #2a78d6;
+  --series-1-soft: #9ec5f4;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --good: #006300;
+  --bad: #c03030;
+  --warn-bg: #fff4dc;
+  --warn-ink: #7a4b00;
+  --ok-bg: #e3f4e3;
+  --ok-ink: #0f5a0f;
+  --seq-0: #e9f1fb; --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec; --seq-4: #3987e5; --seq-5: #256abf; --seq-6: #184f95; --seq-7: #0d366b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --surface-2: #242423; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #94928b;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255, 255, 255, 0.1);
+    --accent: #3987e5; --accent-ink: #86b6ef; --accent-soft: #1d3554;
+    --series-1: #3987e5; --series-1-soft: #2c4f7a; --series-2: #d95926; --series-3: #199e70;
+    --good: #0ca30c; --bad: #e66767; --warn-bg: #3a2c0c; --warn-ink: #f5c86b; --ok-bg: #12301a; --ok-ink: #7fd67f;
+    --seq-0: #16263a; --seq-1: #184f95; --seq-2: #1c5cab; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #9ec5f4; --seq-7: #cde2fb;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --surface-2: #242423; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #94928b;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255, 255, 255, 0.1);
+  --accent: #3987e5; --accent-ink: #86b6ef; --accent-soft: #1d3554;
+  --series-1: #3987e5; --series-1-soft: #2c4f7a; --series-2: #d95926; --series-3: #199e70;
+  --good: #0ca30c; --bad: #e66767; --warn-bg: #3a2c0c; --warn-ink: #f5c86b; --ok-bg: #12301a; --ok-ink: #7fd67f;
+  --seq-0: #16263a; --seq-1: #184f95; --seq-2: #1c5cab; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #9ec5f4; --seq-7: #cde2fb;
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-grid: var(--grid);
+  --color-line: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html, body, #root { height: 100%; }
+body { background: var(--page); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+.tabular { font-variant-numeric: tabular-nums; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; }
+.chip { border: 1px solid var(--border); border-radius: 999px; }
+::selection { background: var(--accent-soft); }
+*:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+
+/* Markdown answers */
+.prose-answer { line-height: 1.6; font-size: 0.925rem; }
+.prose-answer p { margin: 0.5rem 0; }
+.prose-answer strong { font-weight: 650; }
+.prose-answer ul, .prose-answer ol { margin: 0.4rem 0 0.6rem 1.2rem; }
+.prose-answer ul { list-style: disc; }
+.prose-answer ol { list-style: decimal; }
+.prose-answer li { margin: 0.15rem 0; }
+.prose-answer h1, .prose-answer h2, .prose-answer h3 { font-weight: 650; margin: 0.9rem 0 0.4rem; }
+.prose-answer h1 { font-size: 1.25rem; } .prose-answer h2 { font-size: 1.1rem; } .prose-answer h3 { font-size: 1rem; }
+.prose-answer a { color: var(--accent-ink); text-decoration: underline; text-underline-offset: 2px; }
+.prose-answer table { width: 100%; border-collapse: collapse; margin: 0.6rem 0; font-size: 0.85rem; font-variant-numeric: tabular-nums; display: block; overflow-x: auto; }
+.prose-answer th { text-align: left; font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--axis); padding: 0.35rem 0.6rem 0.35rem 0; white-space: nowrap; }
+.prose-answer td { border-bottom: 1px solid var(--grid); padding: 0.35rem 0.6rem 0.35rem 0; vertical-align: top; }
+.prose-answer code { font-size: 0.8em; background: var(--surface-2); padding: 0.1rem 0.3rem; border-radius: 4px; }
+.prose-answer hr { border-color: var(--grid); margin: 1rem 0; }
+.prose-answer blockquote { border-left: 3px solid var(--grid); padding-left: 0.8rem; color: var(--ink-2); }
+
+.doc { max-width: 52rem; line-height: 1.65; }
+.doc h1 { font-size: 1.75rem; font-weight: 700; margin: 0 0 1rem; letter-spacing: -0.01em; }
+.doc h2 { font-size: 1.25rem; font-weight: 650; margin: 2rem 0 0.6rem; }
+.doc h3 { font-size: 1.05rem; font-weight: 650; margin: 1.4rem 0 0.4rem; }
+
+@keyframes pulse-dot { 0%, 80%, 100% { opacity: 0.25; } 40% { opacity: 1; } }
+.typing span { animation: pulse-dot 1.2s infinite; display: inline-block; }
+.typing span:nth-child(2) { animation-delay: 0.15s; }
+.typing span:nth-child(3) { animation-delay: 0.3s; }
