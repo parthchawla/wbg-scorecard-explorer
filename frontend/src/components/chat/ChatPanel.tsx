@@ -103,7 +103,7 @@ export default function ChatPanel({ meta, onClose, registerSend }: { meta: Meta 
             ? <button type="button" onClick={() => abortRef.current?.abort()} className="rounded-full bg-ink p-1.5 text-surface" aria-label="Stop"><Square className="h-3.5 w-3.5" /></button>
             : <button type="submit" disabled={!input.trim()} className="rounded-full bg-accent p-1.5 text-white disabled:opacity-40" aria-label="Send"><ArrowUp className="h-4 w-4" /></button>}
         </div>
-        <p className="mt-1.5 text-center text-[10px] text-muted">AI-generated summaries of official data · check “How this was answered” for sources</p>
+        <p className="mt-1.5 text-center text-[10px] text-muted">AI-generated answers from official Scorecard data · each answer shows the data it used</p>
       </form>
     </div>
   );
