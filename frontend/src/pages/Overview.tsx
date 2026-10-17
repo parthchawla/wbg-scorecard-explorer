@@ -97,8 +97,7 @@ export default function Overview({ latest }: { latest: number }) {
         {groups.flatMap(([, its]) => its).map((it) => <IndicatorCard key={it.ind_code} it={it} />)}
       </div>
       <p className="text-xs text-muted">
-        Indicators measure different things (people, dollars, gigawatts, hectares…) and the same person can be counted by several, so results should
-        never be added together. Changes between snapshots are indicative. <a className="underline" href={href("about")}>About the data</a>
+        Changes between snapshots are indicative. <a className="underline" href={href("about")}>About the data</a>
       </p>
     </div>
   );

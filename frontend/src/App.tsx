@@ -78,7 +78,7 @@ export default function App() {
               <Suspense fallback={<Loading h={400} />}>{page}</Suspense>
               <footer className="mt-12 flex flex-wrap items-center justify-between gap-2 border-t border-line pt-4 text-xs text-muted">
                 <span className="inline-flex items-center gap-1.5"><Globe2 className="h-3.5 w-3.5" /> Data: World Bank Group Corporate Scorecard (scorecard.worldbank.org), snapshots FY{snapshots[0]}–FY{latest}.</span>
-                <span>Prototype · not an official World Bank product{meta ? ` · AI model: ${meta.model}` : ""}</span>
+                <span>Created by Parth Chawla · prototype, not an official World Bank product{meta ? ` · AI model: ${meta.model}` : ""}</span>
               </footer>
             </div>
           </main>
